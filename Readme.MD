@@ -12,3 +12,5 @@ x64 Native Tools Command Prompt for VS 2019 commands:
 - '\\' Only
 - Set Character set = MultiByte
 - Compile only under x64 machine
+
+Opt. https://github.com/dotnet/corert/blob/master/Documentation/using-corert/optimizing-corert.md
