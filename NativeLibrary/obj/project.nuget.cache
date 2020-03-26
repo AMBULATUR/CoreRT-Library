@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+wnnhCJBEo9R7JWe017L91zevFKXR0OM6IRpTSlRt/5nPsZwsaEMenkUavWoL0giDqlBM19D4LYD4lFN6NYj8g==",
+  "success": true,
+  "projectFilePath": "D:\\RR\\corert\\corert-master\\corert-master\\samples\\NativeLibrary\\NativeLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wrong\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\1.0.0-alpha-28726-01\\microsoft.dotnet.ilcompiler.1.0.0-alpha-28726-01.nupkg.sha512",
+    "C:\\Users\\Wrong\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Wrong\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Wrong\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\1.0.0-alpha-28726-01\\runtime.win-x64.microsoft.dotnet.ilcompiler.1.0.0-alpha-28726-01.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,2 @@
+C:\Users\Wrong\Source\repos\DLLUser\x64\Debug\DLLUser.exe
+C:\Users\Wrong\Source\repos\DLLUser\x64\Debug\DLLUser.pdb

@@ -1,0 +1,9 @@
+D:\RR\corert\corert-master\corert-master\samples\NativeLibrary\bin\x64\Debug\netstandard2.0\NativeLibrary.deps.json
+D:\RR\corert\corert-master\corert-master\samples\NativeLibrary\bin\x64\Debug\netstandard2.0\NativeLibrary.dll
+D:\RR\corert\corert-master\corert-master\samples\NativeLibrary\bin\x64\Debug\netstandard2.0\NativeLibrary.pdb
+D:\RR\corert\corert-master\corert-master\samples\NativeLibrary\obj\x64\Debug\netstandard2.0\NativeLibrary.csprojAssemblyReference.cache
+D:\RR\corert\corert-master\corert-master\samples\NativeLibrary\obj\x64\Debug\netstandard2.0\NativeLibrary.csproj.CoreCompileInputs.cache
+D:\RR\corert\corert-master\corert-master\samples\NativeLibrary\obj\x64\Debug\netstandard2.0\NativeLibrary.AssemblyInfoInputs.cache
+D:\RR\corert\corert-master\corert-master\samples\NativeLibrary\obj\x64\Debug\netstandard2.0\NativeLibrary.AssemblyInfo.cs
+D:\RR\corert\corert-master\corert-master\samples\NativeLibrary\obj\x64\Debug\netstandard2.0\NativeLibrary.dll
+D:\RR\corert\corert-master\corert-master\samples\NativeLibrary\obj\x64\Debug\netstandard2.0\NativeLibrary.pdb

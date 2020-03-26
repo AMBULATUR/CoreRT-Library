@@ -1,0 +1,2 @@
+C:\Users\Wrong\Source\repos\DLLCUser\x64\Debug\DLLCUser.exe
+C:\Users\Wrong\Source\repos\DLLCUser\x64\Debug\DLLCUser.pdb

@@ -1,0 +1,68 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/win-x64",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/win-x64": {
+      "NativeLibrary/1.0.0": {
+        "dependencies": {
+          "Microsoft.DotNet.ILCompiler": "1.0.0-alpha-28726-01",
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "NativeLibrary.dll": {}
+        }
+      },
+      "Microsoft.DotNet.ILCompiler/1.0.0-alpha-28726-01": {
+        "dependencies": {
+          "runtime.win-x64.Microsoft.DotNet.ILCompiler": "1.0.0-alpha-28726-01"
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "runtime.win-x64.Microsoft.DotNet.ILCompiler/1.0.0-alpha-28726-01": {}
+    }
+  },
+  "libraries": {
+    "NativeLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.DotNet.ILCompiler/1.0.0-alpha-28726-01": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-e+s6tznnDlVNHJa06bVRlJFeiu9ixL5e1qoRr7ffJfIEat0FBZxUA2AjmGBxzPpoTZC1LsCSq+Utw1Ea9qWV1Q==",
+      "path": "microsoft.dotnet.ilcompiler/1.0.0-alpha-28726-01",
+      "hashPath": "microsoft.dotnet.ilcompiler.1.0.0-alpha-28726-01.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "runtime.win-x64.Microsoft.DotNet.ILCompiler/1.0.0-alpha-28726-01": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uVXHGw9CBwuv5Dgy6tUUGUh5yrs1CDCi4dtSrpCvxyJkrIC0OUasJhJeNMESkjF69rufyqKNBRt4rNcIm03vFA==",
+      "path": "runtime.win-x64.microsoft.dotnet.ilcompiler/1.0.0-alpha-28726-01",
+      "hashPath": "runtime.win-x64.microsoft.dotnet.ilcompiler.1.0.0-alpha-28726-01.nupkg.sha512"
+    }
+  }
+}

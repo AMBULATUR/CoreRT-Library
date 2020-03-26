@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Wrong\Source\repos\DLLCUser\main.c(24,10): warning C4013: 'getch' undefined; assuming extern returning int
+  DLLCUser.vcxproj -> C:\Users\Wrong\Source\repos\DLLCUser\x64\Debug\DLLCUser.exe
